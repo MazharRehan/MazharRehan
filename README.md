@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+---
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazharRehan&show=reviews&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=MazharRehan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MazharRehan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MazharRehan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 <!--
 **MazharRehan/MazharRehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
