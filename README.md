@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Hassan Mazhar Rehan</h1>
+<h1 align="center">Hi there 👋, I'm Mazhar Rehan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
----
+
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazharRehan&show=reviews&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
 
