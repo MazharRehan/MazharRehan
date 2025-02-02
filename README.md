@@ -3,9 +3,11 @@
 
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazharRehan&show=reviews&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
+![MazharRehan's Stats](https://github-readme-stats.vercel.app/api?username=MazharRehan&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MazharRehan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![MazharRehan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MazharRehan&theme=algolia&hide_border=true)
+
+![MazharRehan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazharRehan&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 ---
 <!--
