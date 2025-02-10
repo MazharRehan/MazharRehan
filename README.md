@@ -5,7 +5,7 @@
 ## 📊 GitHub Stats:
 ![MazharRehan's Stats](https://github-readme-stats.vercel.app/api?username=MazharRehan&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-![MazharRehan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MazharRehan&theme=algolia&hide_border=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MazharRehan&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ![MazharRehan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazharRehan&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
